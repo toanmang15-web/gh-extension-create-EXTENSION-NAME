@@ -1,1 +1,1 @@
-# gh-extension-create-EXTENSION-NAME
+cách tạo responsible extension github
