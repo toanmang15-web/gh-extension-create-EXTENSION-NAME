@@ -1,0 +1,1 @@
+# gh-extension-create-EXTENSION-NAME
